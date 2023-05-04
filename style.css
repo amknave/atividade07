@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    padding-right: 250px;
+    padding-left: 250px;
+}
+
+.titulo_principal {
+    font-family: 'Castoro Titling', cursive;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.subtitulo {
+    font-family: 'Castoro Titling', cursive;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 600;
+    color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: none;
+}
+
+.ante_subtitulo {
+    font-family: 'Castoro Titling', cursive;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.texto {
+    font-family: 'Castoro Titling', cursive;
+    font-size: small;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
